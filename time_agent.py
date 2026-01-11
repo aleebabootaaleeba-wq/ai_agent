@@ -35,4 +35,4 @@ while True:
                 print(get_time(city))
                 break
         else:
-            print("Please mention a supported city.")
+            print("Please mention a supported city..")
